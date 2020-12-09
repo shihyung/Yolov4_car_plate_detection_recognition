@@ -40,7 +40,7 @@
 ![car_plate_bbox.gif](images/car_plate_bbox.gif)
 
 ### 車牌辨識
-##### 車牌辨識的大魔王則是OCR(optical character recognition)光學文字辨識部分，這是個悠久歷史的老題目，雖然常見套件如 easyocr、tefferact 等等都有不錯的效果，但是遇上文字過小或是過於模糊的還是常常無法辨識的很好。
+##### 車牌辨識的大魔王則是OCR(optical character recognition)光學文字辨識部分，這是個悠久歷史的老題目，雖然常見套件如 easyocr、tefferact 等等都有不錯的效果，但是遇上文字過小、車牌歪斜或是過於模糊的還是常常無法辨識的很好。
 ##### 下面是用 tesseract 測試幾張容易辨識的圖片:
 ![ocr1.jpg](images/ocr1.png)
 ##### 不過還是部份會有判斷錯誤的:
