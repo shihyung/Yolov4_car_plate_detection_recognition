@@ -1,5 +1,5 @@
-# 車牌偵測與辨識 (by Yolov4)
-# Car plate detection and recognition from scratch by Yolov4
+# 車牌偵測與辨識 (by Yolov4/Tesseract)
+# Car plate detection and recognition from scratch by Yolov4/Tesseract
 ![car2.jpg](images/car2.png)
 
 ### 目的
